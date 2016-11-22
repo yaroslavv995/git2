@@ -14,7 +14,7 @@
 /*    */ {
 /*    */   private Graphics2D g2d;
 /*    */   private Timer animation;
-/*    */   private boolean is_done;
+/* 11 */   private boolean is_done;
 /* 12 */   private int start_angle = 0;
 /*    */   private int shape;
 /*    */ 

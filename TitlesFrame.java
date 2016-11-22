@@ -8,7 +8,7 @@
 /*    */ {
 /*    */   public TitlesFrame()
 /*    */   {
-/*  7 */     initUI();
+/* 07 */     initUI();
 /*    */   }
 /*    */ 
 /*    */   private void initUI()

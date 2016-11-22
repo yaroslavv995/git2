@@ -31,7 +31,7 @@
 /*    */   public Shape shape;
 /*    */   public BasicStroke stroke;
 /*    */   public Paint paint;
-/*  9 */   public int width = 25;
+/* 09 */   public int width = 25;
 /* 10 */   public int height = 25;
 /*    */ 
 /*    */   public ShapeFactory(int shape_type) {
