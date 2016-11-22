@@ -33,6 +33,13 @@
 /* 27 */       repaint();
 /*    */   }
 /*    */ 
+/ **
+     * @param g
+     * Нарисовать фигуру, улучшить качество о настройках
+     * Класс ShapeFactory определяет тип фигуры
+     * Класс AffineTransform помогает то, что фигура не искажается
+     * /
+	 
 /*    */   private void doDrawing(Graphics g)
 /*    */   {
 /* 32 */     this.is_done = false;

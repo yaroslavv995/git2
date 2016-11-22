@@ -1,6 +1,9 @@
 /*    */ import javax.swing.JFrame;
 /*    */ import javax.swing.SwingUtilities;
 /*    */ 
+/ **
+ * Создание GUI: размер, расположение и заголовок окна,
+ * /
 /*    */ public class TitlesFrame extends JFrame
 /*    */ {
 /*    */   public TitlesFrame()
@@ -29,8 +32,3 @@
 /*    */     });
 /*    */   }
 /*    */ }
-
-/* Location:           C:\USER\in22_10\lab3.jar
- * Qualified Name:     TitlesFrame
- * JD-Core Version:    0.6.2
- */

@@ -8,7 +8,24 @@
 /*    */ import java.awt.geom.GeneralPath;
 /*    */ import java.awt.geom.Point2D;
 /*    */ import java.awt.geom.Rectangle2D;
-/*    */ 
+
+/ **
+ * Конструктор ShapeFactory имеет два переключателя, где переключатель (shape_type / 10)
+ * Case 1 отвечает за создание шестиугольник
+ * Case 3 отвечает за создание звезды
+ * Case 5 отвечает за строительство квадрат
+ * Case 7 отвечает за построение треугольника
+ * Case 9 отвечает за строительство круг без сектора
+ *
+ * Где переключатель (shape_type / 10)
+ * Case 4 увеличивает контуры
+ * Case 7 отвечает за серо-белый градиент
+ * Case 8 Подготовка форм красный
+ ** /
+
+
+
+
 /*    */ public class ShapeFactory
 /*    */ {
 /*    */   public Shape shape;
