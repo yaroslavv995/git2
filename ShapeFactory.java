@@ -9,7 +9,7 @@
 /*    */ import java.awt.geom.Point2D;
 /*    */ import java.awt.geom.Rectangle2D;
 
-/ **
+/**
  * Конструктор ShapeFactory имеет два переключателя, где переключатель (shape_type / 10)
  * Case 1 отвечает за создание шестиугольник
  * Case 3 отвечает за создание звезды

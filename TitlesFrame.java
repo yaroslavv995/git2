@@ -1,7 +1,7 @@
 /*    */ import javax.swing.JFrame;
 /*    */ import javax.swing.SwingUtilities;
 /*    */ 
-/ **
+/**
  * Создание GUI: размер, расположение и заголовок окна,
  * /
 /*    */ public class TitlesFrame extends JFrame
